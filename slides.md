@@ -1,5 +1,9 @@
 # meta lightning talk
 
+![lightning](/images/lightning.jpg)
+
+(flickr @ jeremyweber)
+
 ---
 ![5 minutes](/images/5.jpg)
 
